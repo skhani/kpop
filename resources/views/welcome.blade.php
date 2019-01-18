@@ -57,6 +57,9 @@
                 <div class="text">
                     <h1>Congratulations!</h1>
                     <h2>You just created a Fresh aravel web application</h2>
+                    <iframe id="ytplayer" type="text/html" width="720" height="405"
+                            src="https://www.youtube.com/embed/IHNzOHi8sJs"
+                            frameborder="0" allowfullscreen>
                 </div>
             </div>
         </div>
